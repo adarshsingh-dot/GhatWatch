@@ -1,0 +1,10 @@
+year,festival,site,water_body,phase,parameter,value,unit_assumed,flag,value_as_printed,parameter_as_printed,site_as_printed,site_match_confidence,source_page
+2026,Durga,Prempura ghat,Upper Lake,pre,pH,,,,,pH,"Prempura ghat, Bhopal",high,
+2026,Durga,Prempura ghat,Upper Lake,during,pH,,,,,pH,"Prempura ghat, Bhopal",high,
+2026,Durga,Prempura ghat,Upper Lake,after,pH,,,,,pH,"Prempura ghat, Bhopal",high,
+2026,Durga,Prempura ghat,Upper Lake,pre,Dissolved oxygen,,mg/l,,,D.Oxygen,"Prempura ghat, Bhopal",high,
+2026,Durga,Prempura ghat,Upper Lake,during,Dissolved oxygen,,mg/l,,,D.Oxygen,"Prempura ghat, Bhopal",high,
+2026,Durga,Prempura ghat,Upper Lake,after,Dissolved oxygen,,mg/l,,,D.Oxygen,"Prempura ghat, Bhopal",high,
+2026,Durga,Prempura ghat,Upper Lake,pre,BOD,,mg/l,,,BOD,"Prempura ghat, Bhopal",high,
+2026,Durga,Prempura ghat,Upper Lake,during,BOD,,mg/l,,,BOD,"Prempura ghat, Bhopal",high,
+2026,Durga,Prempura ghat,Upper Lake,after,BOD,,mg/l,,,BOD,"Prempura ghat, Bhopal",high,
